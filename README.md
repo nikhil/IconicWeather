@@ -1,4 +1,4 @@
-#IconicWeather
+# IconicWeather
 
 A script used with `i3blocks` that monitors weather from Accuweather and displays the weather on your bar. <br>
 Modified from the script found <a href="https://gist.github.com/cirrusUK/fa9e6a7551e511331020">here.</a> <br>
